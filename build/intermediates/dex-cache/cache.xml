@@ -2,11 +2,74 @@
 <items version="2" >
 
     <item
-        jar="/Users/dan/Documents/github/myFirstGLApp-test/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/2.3.0/jars/classes.jar"
+        jar="/Users/dan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-c190a8addf7d261c2b92206d1729bc3d3e36a13c.jar" />
+    </item>
+    <item
+        jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.mapzen.android/lost/1.0.1/5f807d0be6ca894f6ae0007e884099793b2c8633/lost-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f807d0be6ca894f6ae0007e884099793b2c8633">
+        <dex dex="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/pre-dexed/debug/lost-1.0.1-b1158d6c7bebb64118796809e23d02c42611acd3.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/pre-dexed/debug/classes-b233d84e0d978f9fc9deb385953dcdddc8c3292a.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/pre-dexed/debug/classes-2516a2b08c28ae2031299664ef4b95016ac1504f.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/pre-dexed/debug/classes-b7f7818ca94ea075ec94597223d5ce840e40222f.jar" />
+    </item>
+    <item
+        jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/pre-dexed/debug/okio-1.6.0-b03298826a7f2d93a7bc74c3cdafe3a09b654d99.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/pre-dexed/debug/classes-062b91d53835d55408be870cce8c9820fe0f7ab3.jar" />
+    </item>
+    <item
+        jar="/Users/dan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-15e8bee8992e0a90e8467bc9a60a3baab49300f0.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-fd1df91ce644ea6843bb0bff628830ed9734d534.jar" />
+    </item>
+    <item
+        jar="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/2.3.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="915971eaff1260e5af63db353013e519fecdd84c">
-        <dex dex="/Users/dan/Documents/github/myFirstGLApp-test/app/build/intermediates/pre-dexed/debug/classes-79e9c6c317e989f818d815f82fee05cc48dda917.jar" />
+        <dex dex="/Users/dan/Documents/github/multiple-android-markers/app/build/intermediates/pre-dexed/debug/classes-b8a87a2f9bcddce0d45de72b4cc2d346af45939d.jar" />
     </item>
 
 </items>
