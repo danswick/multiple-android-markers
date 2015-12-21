@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dan/Documents/github/myFirstGLApp-test/app/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="915971eaff1260e5af63db353013e519fecdd84c">
+        <dex dex="/Users/dan/Documents/github/myFirstGLApp-test/app/build/intermediates/pre-dexed/debug/classes-79e9c6c317e989f818d815f82fee05cc48dda917.jar" />
+    </item>
+
+</items>
